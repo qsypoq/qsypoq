@@ -1,16 +1,11 @@
-### Hi there 👋
+# Adam "Qsypoq" Magnier
+![age](https://img.shields.io/badge/Age-29yo-informational)
+![job](https://img.shields.io/badge/Working%20as-TechOps%20Infra-informational)
+![blog](https://img.shields.io/badge/Blogger-Sporadic-informational)
+![nerd](https://img.shields.io/badge/Nerd-Full%20Time-informational)
 
-<!--
-**qsypoq/qsypoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: https://twitter.com/qsypoq
+- Linkedin: https://www.linkedin.com/in/adam-magnier
+- Personal site: https://magnier.io
+- Email: name at surname dot io
