@@ -4,7 +4,7 @@
 ![blog](https://img.shields.io/badge/Blogger-Sporadic-informational)
 ![nerd](https://img.shields.io/badge/Nerd-Full%20Time-informational)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=qsypoq)
+![Qsypoq's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsypoq&count_private=true)
 
 ## Get in touch
 - Twitter: https://twitter.com/qsypoq
