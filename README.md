@@ -6,6 +6,8 @@
 
 ![Qsypoq's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsypoq&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsypoq&layout=compact)
+
 ## Get in touch
 - Twitter: https://twitter.com/qsypoq
 - Linkedin: https://www.linkedin.com/in/adam-magnier
