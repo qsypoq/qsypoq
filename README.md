@@ -6,7 +6,7 @@
 
 ![Qsypoq's GitHub stats](https://github-readme-stats.vercel.app/api?username=qsypoq&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsypoq&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsypoq&layout=compact?hide=C)
 
 ## Get in touch
 - Twitter: https://twitter.com/qsypoq
