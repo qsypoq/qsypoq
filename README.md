@@ -5,7 +5,7 @@
 ![blog](https://img.shields.io/badge/Blogger-Sporadic-informational)
 ![nerd](https://img.shields.io/badge/Nerd-Full%20Time-informational)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qsypoq&?count_private=true&langs_count=6&show_icons=true&include_all_commits=true&hide_border=true" alt="Qsypoq's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsypoq&exclude_repo=hid&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qsypoq&?count_private=true&langs_count=6&show_icons=true&include_all_commits=true&hide_border=true" alt="Qsypoq's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsypoq&exclude_repo=hid&layout=compact&hide_border=true&?count_private=true" /></a> |
 | ------------- | ------------- |
 
 ## Get in touch
