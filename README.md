@@ -5,7 +5,8 @@
 ![blog](https://img.shields.io/badge/Blogger-Sporadic-informational)
 ![nerd](https://img.shields.io/badge/Nerd-Full%20Time-informational)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsypoq&exclude_repo=memoire-linguistique,memoire-ia-text,hid,qsypoq.github.io&layout=compact&hide_border=true&?count_private=true&langs_count=6" /></a>
+| ![qsypoq's Stats](https://github-readme-stats.vercel.app/api?username=qsypoq&theme=default&show_icons=true&hide_border=true&count_private=true) | ![qsypoq's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qsypoq&exclude_repo=memoire-linguistique,memoire-ia-text,hid,qsypoq.github.io&layout=compact&hide_border=true&?count_private=true&langs_count=6) |
+| ------------- | ------------- |
 
 ## Get in touch
 - Twitter: https://twitter.com/qsypoq
